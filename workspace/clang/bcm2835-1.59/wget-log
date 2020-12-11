@@ -1,0 +1,11 @@
+--2020-12-11 15:51:08--  https://02738294916621782721.googlegroups.com/attach/b5d6d869f4530/bcm2835_rpi4.patch?part=0.1
+Resolving 02738294916621782721.googlegroups.com (02738294916621782721.googlegroups.com)... 2404:6800:4008:c01::89, 64.233.189.137
+Connecting to 02738294916621782721.googlegroups.com (02738294916621782721.googlegroups.com)|2404:6800:4008:c01::89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘bcm2835_rpi4.patch?part=0.1’
+
+bcm2835_rpi4.patch?part=0.     [<=>                                   ]       0  --.-KB/s               bcm2835_rpi4.patch?part=0.     [ <=>                                  ]     136  --.-KB/s    in 0s      
+
+2020-12-11 15:51:09 (1.14 MB/s) - ‘bcm2835_rpi4.patch?part=0.1’ saved [136]
+
